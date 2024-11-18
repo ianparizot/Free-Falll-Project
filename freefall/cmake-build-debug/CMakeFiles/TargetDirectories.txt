@@ -1,0 +1,3 @@
+C:/Users/pariz/CLionProjects/freefall/cmake-build-debug/CMakeFiles/freefall.dir
+C:/Users/pariz/CLionProjects/freefall/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pariz/CLionProjects/freefall/cmake-build-debug/CMakeFiles/rebuild_cache.dir
