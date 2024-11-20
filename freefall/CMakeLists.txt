@@ -6,7 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(freefall main.c
         choice.h
         speed.h
-        time.h
-        math.h)
+        time.h)
 
 target_link_libraries(freefall m)
