@@ -8,3 +8,5 @@ add_executable(freefall main.c
         speed.h
         time.h
         math.h)
+
+target_link_libraries(freefall m)
