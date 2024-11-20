@@ -4,7 +4,7 @@
 
 #ifndef SPEED_H
 #define SPEED_H
-#include "math.h"
+#include <math.h>
 double speed(double height, double g) {
     return sqrt(2 * g * height);
 }
