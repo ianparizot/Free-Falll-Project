@@ -8,4 +8,6 @@ add_executable(freefall main.c
         speed.h
         time.h)
 
-target_link_libraries(freefall m)
+if (UNIX)
+    target_link_libraries(freefall m)
+endif()
